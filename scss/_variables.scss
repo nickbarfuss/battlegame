@@ -1,0 +1,31 @@
+//ui colors
+$ui_white: rgb(255,255,255);
+$ui_white_5: rgba($ui_white,0.5);
+
+
+$ui_grey_1: rgb(243,243,243);
+$ui_grey_2: rgb(216,216,216);
+$ui_grey_3: rgb(200,200,200);
+
+$ui_black: rgb(0,0,0);
+$ui_black_1: rgba($ui_black,0.1);
+$ui_black_2: rgba($ui_black,0.2);
+
+$ui_test: rgb(255, 233, 117);
+$ui_test_1: rgba($ui_test, 0.5);
+
+//faction colors
+$faction_0: rgb(170,170,170);
+$faction_1: rgb(65,140,53);
+$faction_2: rgb(217,163,18);
+$faction_3: rgb(26,119,215);
+$faction_4: rgb(138,28,196);
+$faction_5: rgb(171,25,30);
+$faction_6: rgb(235,45,102);
+
+//battlefield
+$turn_length: 60s !default;
+
+//animation easing
+$easeOutBack: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+$easeInOutBack: cubic-bezier(0.68, -0.55, 0.265, 1.55);

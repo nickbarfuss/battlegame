@@ -1,0 +1,20 @@
+body {
+  background: #dfdfdf;
+}
+
+iframe {
+  width: 95vw;
+  height: 55.125vw;
+  /* aspect_height/aspect_width * width */
+  max-height: 95vh;
+  max-width: 174.222vh;
+  /* aspect_width/aspect_height * width */
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: none;
+  box-shadow: 0vw 0.2vw 1vw 0.2vw rgba(0, 0, 0, 0.3);
+}

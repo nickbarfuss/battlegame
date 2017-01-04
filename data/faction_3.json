@@ -1,0 +1,337 @@
+{		
+	"id": 3,
+	"name": "Cobra Commandos",
+	"flavor" : "Crashing through the sky, comes and evil cry, Cobra! Armies of the night, Evil taking flight.",
+	"units": [
+		{
+			"name": "Cobra Commander",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "cobra_commander.png",
+			"type": "type_1",
+			"frequency": 1,
+			"value": 4
+		},
+		{
+			"name": "Baroness",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "baroness.png",
+			"type": "type_2",
+			"frequency": 2,
+			"value": 6
+		},
+		{
+			"name": "Destro",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "destro.png",
+			"type": "type_2",
+			"frequency": 3,
+			"value": 8
+		},
+		{
+			"name": "Dr Mindbender",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "dr_mindbender.png",
+			"type": "type_3",
+			"frequency": 5,
+			"value": 3
+		},
+		{
+			"name": "Serpentor",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "serpentor.png",
+			"type": "type_3",
+			"frequency": 5,
+			"value": 10
+		},
+		{
+			"name": "Tomax",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "tomax.png",
+			"type": "type_4",
+			"frequency": 3,
+			"value": 3
+		},
+		{
+			"name": "Xamot",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "xamot.png",
+			"type": "type_3",
+			"frequency": 5,
+			"value": 3
+		},
+		{
+			"name": "Zartan",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "zartan.png",
+			"type": "type_1",
+			"frequency": 4,
+			"value": 9
+		},
+		{
+			"name": "Zarana",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "zarana.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 8
+		}
+
+	],
+	"locations": [
+		{
+			"name": "The Silent Castle",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 3,
+			"img": "castle.png"
+		},
+		{
+			"name": "Cobra Island",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 2,
+			"img": "island.png"
+		},
+		{
+			"name": "Cobra's Terror Drome",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 1,
+			"img": "drome.png"
+		}
+
+	],
+	"boosts": [
+		{
+			"name": "type_1",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_2",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_3",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_4",
+			"items": [
+
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_5",
+			"items": [
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},	
+				{
+					"name": "type_5",
+					"value": 10
+				}
+			]
+		}		
+	]
+}

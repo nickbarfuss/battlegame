@@ -1,0 +1,60 @@
+.tooltipster-sidetip.card .tooltipster-box {
+	background: rgba($ui_white, 0);
+	box-sizing: border-box;
+	border-radius: 0.5vw;
+	border-width: 0.4vw;
+	border-style: solid;
+	border-color: $faction_0;
+	box-shadow: 0vw 0vw 1.5vw 0vw rgba($ui_black,0.3);
+	overflow: hidden;
+}
+.tooltipster-sidetip.card.tooltipster-bottom .tooltipster-box {
+	margin-top: 1vmx;
+}
+.tooltipster-sidetip.card.tooltipster-left .tooltipster-box {
+	margin-right: 1vmx;
+}
+.tooltipster-sidetip.card.tooltipster-right .tooltipster-box {
+	margin-left: 1vmx;
+}
+.tooltipster-sidetip.card.tooltipster-top .tooltipster-box {
+	margin-bottom: 1vmx;
+}
+.tooltipster-sidetip.card .tooltipster-content {
+	padding: 0;
+}
+.tooltipster-sidetip.card .tooltipster-arrow {
+	height: 1vmx;
+	margin-left: -1vmx;
+	width: 2vmx;
+}
+.tooltipster-sidetip.card.tooltipster-left .tooltipster-arrow, .tooltipster-sidetip.card.tooltipster-right .tooltipster-arrow {
+	height: 2vmx;
+	margin-left: 0;
+	margin-top: -1vmx;
+	width: 1vmx;
+}
+.tooltipster-sidetip.card .tooltipster-arrow-background {
+	display: none;
+}
+.tooltipster-sidetip.card .tooltipster-arrow-border {
+	border: 1vmx solid transparent;
+}
+.tooltipster-sidetip.card.tooltipster-bottom .tooltipster-arrow-border {
+	border-bottom-color: $faction_0;
+}
+.tooltipster-sidetip.card.tooltipster-left .tooltipster-arrow-border {
+	border-left-color: $faction_0;
+}
+.tooltipster-sidetip.card.tooltipster-right .tooltipster-arrow-border {
+	border-right-color: $faction_0;
+}
+.tooltipster-sidetip.card.tooltipster-top .tooltipster-arrow-border {
+	border-top-color: $faction_0;
+}
+.tooltipster-sidetip.card.tooltipster-bottom .tooltipster-arrow-uncropped {
+	top: -1vmx;
+}
+.tooltipster-sidetip.card.tooltipster-right .tooltipster-arrow-uncropped {
+	left: -1vmx;
+}

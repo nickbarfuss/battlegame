@@ -1,0 +1,239 @@
+//////////////////////
+//colors
+//////////////////////
+
+#header .container.faction_1 .player,
+#main .container.active.faction_1 .card .card_back .footer .type,
+#main .container.active.faction_1 .card .card_front .player,
+.faction_1 .unit_card .footer .type
+{
+	color: $faction_1;
+}
+
+#header .container.faction_2 .player,
+#main .container.active.faction_2 .card .card_back .footer .type,
+#main .container.active.faction_2 .card .card_front .player,
+.faction_2 .unit_card .footer .type
+{
+	color: $faction_2;
+}
+
+#header .container.faction_3 .player,
+#main .container.active.faction_3 .card .card_back .footer .type,
+#main .container.active.faction_3 .card .card_front .player,
+.faction_3 .unit_card .footer .type
+{
+	color: $faction_3;
+}
+
+#header .container.faction_4 .player,
+#main .container.active.faction_4 .card .card_back .footer .type,
+#main .container.active.faction_4 .card .card_front .player,
+.faction_4 .unit_card .footer .type
+{
+	color: $faction_4;
+}
+
+#header .container.faction_5 .player,
+#main .container.active.faction_5 .card .card_back .footer .type,
+#main .container.active.faction_5 .card .card_front .player,
+.faction_5 .unit_card .footer .type
+{
+	color: $faction_5;
+}
+
+#header .container.faction_6 .player,
+#main .container.active.faction_6 .card .card_back .footer .type,
+#main .container.active.faction_6 .card .card_front .player,
+.faction_6 .unit_card .footer .type
+{
+	color: $faction_6;
+}
+
+//////////////////////
+//borders
+//////////////////////
+
+#header .container.faction_1 .portrait_container,
+#main .container.active.faction_1 .card .card_front, 
+#main .container.active.faction_1 .card .card_back,
+#main .container.faction_1 .token_container,
+#footer .container.active.faction_1,
+#footer .container.faction_1 .portrait_container,
+.tooltipster-sidetip.faction_1 .tooltipster-box
+{ 
+	border-color: $faction_1; 
+}
+
+#header .container.faction_2 .portrait_container,
+#main .container.active.faction_2 .card .card_front, 
+#main .container.active.faction_2 .card .card_back, 
+#main .container.faction_2 .token_container,
+#footer .container.active.faction_2,
+#footer .container.faction_2 .portrait_container,
+.tooltipster-sidetip.faction_2 .tooltipster-box
+{ 
+	border-color: $faction_2; 
+}
+
+#header .container.faction_3 .portrait_container,
+#main .container.active.faction_3 .card .card_front, 
+#main .container.active.faction_3 .card .card_back, 
+#main .container.faction_3 .token_container,
+#footer .container.active.faction_3,
+#footer .container.faction_3 .portrait_container,
+.tooltipster-sidetip.faction_3 .tooltipster-box
+{ 
+	border-color: $faction_3; 
+}
+
+#header .container.faction_4 .portrait_container,
+#main .container.active.faction_4 .card .card_front, 
+#main .container.active.faction_4 .card .card_back, 
+#main .container.faction_4 .token_container,
+#footer .container.active.faction_4,
+#footer .container.faction_4 .portrait_container,
+.tooltipster-sidetip.faction_4 .tooltipster-box
+{ 
+	border-color: $faction_4; 
+}
+
+#header .container.faction_5 .portrait_container,
+#main .container.active.faction_5 .card .card_front, 
+#main .container.active.faction_5 .card .card_back, 
+#main .container.faction_5 .token_container,
+#footer .container.active.faction_5,
+#footer .container.faction_5 .portrait_container,
+.tooltipster-sidetip.faction_5 .tooltipster-box
+{ 
+	border-color: $faction_5; 
+}
+
+#header .container.faction_6 .portrait_container,
+#main .container.active.faction_6 .card .card_front, 
+#main .container.active.faction_6 .card .card_back, 
+#main .container.faction_6 .token_container,
+#footer .container.active.faction_6,
+#footer .container.faction_6 .portrait_container,
+.tooltipster-sidetip.faction_6 .tooltipster-box
+{ 
+	border-color: $faction_6; 
+}
+
+//////////////////////
+//backgrounds
+//////////////////////
+
+#header .container.faction_1 .point_frame div,
+#main .container.faction_1 .token_container .bg,
+#main .container.faction_1 .card .card_back .progress .bar,
+#main .container.active.faction_1 .card .card_back .header .value_frame div,
+#footer .container.faction_1 .point_frame div,
+.faction_1 .token .pog .pog_front,
+.faction_1 .unit_card .header .value_frame div
+{
+	background-color: $faction_1;
+}
+
+#header .container.faction_2 .point_frame div,
+#main .container.faction_2 .token_container .bg,
+#main .container.faction_2 .card .card_back .progress .bar,
+#main .container.active.faction_2 .card .card_back .header .value_frame div,
+#footer .container.faction_2 .point_frame div,
+.faction_2 .token .pog .pog_front,
+.faction_2 .unit_card .header .value_frame div
+{
+	background-color: $faction_2;
+}
+
+#header .container.faction_3 .point_frame div,
+#main .container.faction_3 .token_container .bg,
+#main .container.faction_3 .card .card_back .progress .bar,
+#main .container.active.faction_3 .card .card_back .header .value_frame div,
+#footer .container.faction_3 .point_frame div,
+.faction_3 .token .pog .pog_front,
+.faction_3 .unit_card .header .value_frame div
+{
+	background-color: $faction_3;
+}
+
+#header .container.faction_4 .point_frame div,
+#main .container.faction_4 .token_container .bg,
+#main .container.faction_4 .card .card_back .progress .bar,
+#main .container.active.faction_4 .card .card_back .header .value_frame div,
+#footer .container.faction_4 .point_frame div,
+.faction_4 .token .pog .pog_front,
+.faction_4 .unit_card .header .value_frame div
+{
+	background-color: $faction_4;
+}
+
+#header .container.faction_5 .point_frame div,
+#main .container.faction_5 .token_container .bg,
+#main .container.faction_5 .card .card_back .progress .bar,
+#main .container.active.faction_5 .card .card_back .header .value_frame div,
+#footer .container.faction_5 .point_frame div,
+.faction_5 .token .pog .pog_front,
+.faction_5 .unit_card .header .value_frame div
+{
+	background-color: $faction_5;
+}
+
+#header .container.faction_6 .point_frame div,
+#main .container.faction_6 .token_container .bg,
+#main .container.faction_6 .card .card_back .progress .bar,
+#main .container.active.faction_6 .card .card_back .header .value_frame div,
+#footer .container.faction_6 .point_frame div,
+.faction_6 .token .pog .pog_front,
+.faction_6 .unit_card .header .value_frame div
+{
+	background-color: $faction_6;
+}
+
+//////////////////////
+//To Be Fixed
+//////////////////////
+
+#main .container.faction_1 .card .card_back .progress { background-color: rgba($faction_1, 0.1); }
+#main .container.faction_2 .card .card_back .progress { background-color: rgba($faction_2, 0.1); }
+#main .container.faction_3 .card .card_back .progress { background-color: rgba($faction_3, 0.1); }
+#main .container.faction_4 .card .card_back .progress { background-color: rgba($faction_4, 0.1); }
+#main .container.faction_5 .card .card_back .progress { background-color: rgba($faction_5, 0.1); }
+#main .container.faction_6 .card .card_back .progress { background-color: rgba($faction_6, 0.1); }
+
+.faction_1 .token .pog .pog_front .value { background-color: rgba($faction_1,0.1); }
+.faction_2 .token .pog .pog_front .value { background-color: rgba($faction_2,0.1); }
+.faction_3 .token .pog .pog_front .value { background-color: rgba($faction_3,0.1); }
+.faction_4 .token .pog .pog_front .value { background-color: rgba($faction_4,0.1); }
+.faction_5 .token .pog .pog_front .value { background-color: rgba($faction_5,0.1); }
+.faction_6 .token .pog .pog_front .value { background-color: rgba($faction_6,0.1); }
+
+.tooltipster-sidetip.faction_1.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_1; }
+.tooltipster-sidetip.faction_1.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_1; }
+.tooltipster-sidetip.faction_1.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_1; }
+.tooltipster-sidetip.faction_1.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_1; }
+
+.tooltipster-sidetip.faction_2.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_2; }
+.tooltipster-sidetip.faction_2.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_2; }
+.tooltipster-sidetip.faction_2.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_2; }
+.tooltipster-sidetip.faction_2.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_2; }
+
+.tooltipster-sidetip.faction_3.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_3; }
+.tooltipster-sidetip.faction_3.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_3; }
+.tooltipster-sidetip.faction_3.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_3; }
+.tooltipster-sidetip.faction_3.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_3; }
+
+.tooltipster-sidetip.faction_4.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_4; }
+.tooltipster-sidetip.faction_4.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_4; }
+.tooltipster-sidetip.faction_4.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_4; }
+.tooltipster-sidetip.faction_4.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_4; }
+
+.tooltipster-sidetip.faction_5.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_5; }
+.tooltipster-sidetip.faction_5.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_5; }
+.tooltipster-sidetip.faction_5.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_5; }
+.tooltipster-sidetip.faction_5.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_5; }
+
+.tooltipster-sidetip.faction_6.tooltipster-bottom .tooltipster-arrow-border { border-bottom-color: $faction_6; }
+.tooltipster-sidetip.faction_6.tooltipster-left .tooltipster-arrow-border { border-left-color: $faction_6; }
+.tooltipster-sidetip.faction_6.tooltipster-right .tooltipster-arrow-border { border-right-color: $faction_6; }
+.tooltipster-sidetip.faction_6.tooltipster-top .tooltipster-arrow-border { border-top-color: $faction_6; }

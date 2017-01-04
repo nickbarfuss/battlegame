@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "base";
+  src: url("../font/SkyHammer-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: "title";
+  src: url("../font/SkyHammer-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: "number";
+  src: url("../font/SkyHammer-Black.ttf");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: "icon";
+  src: url("../font/fontawesome-webfont.ttf");
+  -webkit-font-smoothing: antialiased;
+}

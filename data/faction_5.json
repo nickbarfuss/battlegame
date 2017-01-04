@@ -1,0 +1,311 @@
+{		
+	"id": 5,
+	"name": "The Avengers",
+	"flavor" : "Earth's mightiest heroes!",
+	"units": [
+		{
+			"name": "Captain America",
+			"flavor": "Avengers Asemble!",
+			"img": "captain_america.png",
+			"type": "type_1",
+			"frequency": 1,
+			"value": 6
+		},
+		{
+			"name": "Iron Man",
+			"flavor": "Jarvis, Status report",
+			"img": "iron_man.png",
+			"type": "type_1",
+			"frequency": 2,
+			"value": 7
+		},
+		{
+			"name": "Black Widow",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "black_widow.png",
+			"type": "type_2",
+			"frequency": 5,
+			"value": 4
+		},
+		{
+			"name": "Incredible Hulk",
+			"flavor": "Hulk Smash!",
+			"img": "hulk.png",
+			"type": "type_2",
+			"frequency": 5,
+			"value": 10
+		},
+		{
+			"name": "Hawkeye",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "hawkeye.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 3
+		},
+		{
+			"name": "Thor",
+			"flavor": "This drink, I like it!",
+			"img": "thor.png",
+			"type": "type_3",
+			"frequency": 5,
+			"value": 9
+		}
+	],
+	"locations": [
+		{
+			"name": "Avengers Tower",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 3,
+			"img": "tower.png"
+		},
+		{
+			"name": "Asgaurd",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 2,
+			"img": "asgaurd.png"
+		},
+		{
+			"name": "The Helicarrier",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 1,
+			"img": "helicarrier.png"
+		}
+	],
+	"boosts": [
+		{
+			"name": "type_1",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_2",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_3",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_4",
+			"items": [
+
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_5",
+			"items": [
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},	
+				{
+					"name": "type_5",
+					"value": 10
+				}
+			]
+		}		
+	]
+} 

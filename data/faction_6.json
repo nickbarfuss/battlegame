@@ -1,0 +1,320 @@
+{		
+	"id": 6,
+	"name": "Thundercats",
+	"flavor" : "Thundercats are on the move, thundercats are loose. Evil magic hear the roar, Thundercats are loose.",
+	"units": [
+		{
+			"name": "Lion-O",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "lion_o.png",
+			"type": "type_1",
+			"frequency": 1,
+			"value": 10
+		},
+		{
+			"name": "Panthro",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "panthro.png",
+			"type": "type_2",
+			"frequency": 3,
+			"value": 9
+		},
+		{
+			"name": "Tygra",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "tygra.png",
+			"type": "type_2",
+			"frequency": 3,
+			"value": 8
+		},
+		{
+			"name": "Cheetara",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "cheetara.png",
+			"type": "type_2",
+			"frequency": 3,
+			"value": 7
+		},
+		{
+			"name": "Wily Kat",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "wily_kat.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 2
+		},
+		{
+			"name": "Wily Kit",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "wily_kit.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 2
+		},
+		{
+			"name": "Jaga",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "jaga.png",
+			"type": "type_3",
+			"frequency": 5,
+			"value": 4
+		}
+	],
+	"locations": [
+		{
+			"name": "Cat's Lair",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 3,
+			"img": "lair.png"
+		},
+		{
+			"name": "Tower of Omens",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 2,
+			"img": "tower.png"
+		},
+		{
+			"name": "Berbil Village",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 1,
+			"img": "village.png"
+		}
+
+	],
+	"boosts": [
+		{
+			"name": "type_1",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_2",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_3",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_4",
+			"items": [
+
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_5",
+			"items": [
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},	
+				{
+					"name": "type_5",
+					"value": 10
+				}
+			]
+		}		
+	]
+}

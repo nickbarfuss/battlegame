@@ -1,0 +1,304 @@
+{		
+	"id": 4,
+	"name": "Masters of the Universe",
+	"flavor" : "By the power of Greyskull these heros have the power!",
+	"units": [
+		{
+			"name": "He Man",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "he_man.png",
+			"type": "type_1",
+			"frequency": 2,
+			"value": 10
+		},
+		{
+			"name": "She Ra",
+			"flavor": "",
+			"img": "she_ra.png",
+			"type": "type_1",
+			"frequency": 3,
+			"value": 9
+		},
+		{
+			"name": "The Sorceress",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "sorceress.png",
+			"type": "type_3",
+			"frequency": 4,
+			"value": 4
+		},
+		{
+			"name": "Teela",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "teela.png",
+			"type": "type_2",
+			"frequency": 6,
+			"value": 5
+		},
+		{
+			"name": "Man At Arms",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "man_at_arms.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 8
+		}
+	],
+	"locations": [
+		{
+			"name": "Castle Grey Skull",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 3,
+			"img": "grey_skull.png"
+		},
+		{
+			"name": "Eternia",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 2,
+			"img": "eternia.png"
+		},
+		{
+			"name": "Crystal Castle",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 1,
+			"img": "crystal_castle.png"
+		}
+
+	],
+	"boosts": [
+		{
+			"name": "type_1",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_2",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_3",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_4",
+			"items": [
+
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_5",
+			"items": [
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},	
+				{
+					"name": "type_5",
+					"value": 10
+				}
+			]
+		}		
+	]
+}    

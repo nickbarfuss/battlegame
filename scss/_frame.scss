@@ -1,0 +1,44 @@
+.point_frame {
+	width: 100%;
+	
+	div {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background-color: $faction_0;
+		clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+		font-family: 'number';
+		color: $ui_white;
+		text-shadow: 0px 1px 1px $ui_black;		
+	}
+	
+	div:after {
+		content: "";
+		display: block;
+		padding-bottom: 100%;
+	}
+}
+
+
+.value_frame {
+	width: 100%;
+	
+	div {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background-color: $faction_0;
+		clip-path: circle(50% at 50% 50%);
+		font-family: 'number';
+		color: $ui_white;
+		text-shadow: 0px 1px 1px $ui_black;		
+	}
+	
+	div:after {
+		content: "";
+		display: block;
+		padding-bottom: 100%;
+	}
+}

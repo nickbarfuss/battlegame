@@ -1,0 +1,82 @@
+#footer {
+	position: relative;
+	height: 18vh;
+	
+	.container {
+		position: absolute;
+		display: flex;
+		flex-direction: row;
+		align-items: stretch;
+		margin-top: 22vh;
+		box-sizing: border-box;
+		border-top-style: solid;
+		border-top-width: 0.5vh;
+		border-top-color: $faction_0;
+		background: $ui_white;
+		z-index: 0;
+		
+		.player_container {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			padding: 1vw;
+			width: 10vw;
+			border-right: 1px solid $ui_black_1;
+			
+			.player {
+				position: relative;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				width: 80%;
+				
+				.portrait_container {
+					width: 100%;
+					border-width: 0.6vw;
+					filter: drop-shadow(0px 2px 0px $ui_black_2);
+				}
+				.point_container {
+					position: absolute;
+					bottom: 0;
+					font-size: 1.1vmax;
+					margin: auto;
+					width: 25%;
+				}
+			}
+			.title {
+				font-family: 'title';
+			}
+		}	
+		.unit_container, .boost_container, {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			width: 44vw;
+			height: 18vh;
+			
+			.empty_container {
+				display: flex;
+				flex-direction: row;
+				align-items: center;
+				justify-content: center;
+				width: 7.5vw;
+				height: 7.5vw;
+				border-radius: 7.5vw;
+				margin: .25vw;
+				box-shadow: inset 0vw 0vw 2vw rgba(0,0,0,0.5);
+				background: rgba(0,0,0,0.1);
+			}
+		}
+		.unit_container {
+			border-right: 1px solid $ui_black_1;
+		}
+		
+	}
+	.container.viewing {
+		margin-top: 0;
+	}
+}

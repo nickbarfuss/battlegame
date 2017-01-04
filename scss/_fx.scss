@@ -1,0 +1,21 @@
+@keyframes progressActivity {
+	0% { 
+		margin-left: 0%;
+		width: 0%; 
+	}
+	50% { 
+		margin-left: 0%;
+		width: 100%; 
+	}
+	100% { 
+		margin-left: 100%; 
+	}
+}
+@keyframes progressCountDown {
+	0% { 
+		width: 100%;
+	}
+	100% { 
+		width: 0%;
+	}
+}

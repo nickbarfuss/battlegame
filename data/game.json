@@ -1,0 +1,39 @@
+{
+	"config": {
+		"gameSize": 4	
+	},
+	"players": [
+		{
+			"name": "Nick Barfuss",
+			"faction": 3
+		},
+		{
+			"name": "Isis Barfuss",
+			"faction": 2
+		},
+		{
+			"name": "Jeremy Hunt",
+			"faction": 6
+		},
+		{
+			"name": "Jasmine",
+			"faction": 1
+		},
+		{
+			"name": "Phoneix",
+			"faction": 4
+		},
+		{
+			"name": "Ethan",
+			"faction": 5
+		}
+	],
+	"data": {
+		"unitCard": {
+			"title": "",
+			"description": "",
+			"type": "",
+			"value": ""
+		}
+	}
+}

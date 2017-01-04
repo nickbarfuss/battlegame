@@ -1,0 +1,328 @@
+{		
+	"id": 1,
+	"name": "GI Joe",
+	"flavor" : "They fight for freedom wherever there's trouble, over land and sea and air. They never give up, they never say die.",
+	"units": [
+		{
+			"name": "Duke",
+			"flavor": "Yo Joe!",
+			"img": "duke.png",
+			"type": "type_1",
+			"frequency": 1,
+			"value": 10
+		},
+		{
+			"name": "Gung Ho",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "gung_ho.png",
+			"type": "type_4",
+			"frequency": 8,
+			"value": 6
+		},
+		{
+			"name": "Lady Jaye",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "lady_jaye.png",
+			"type": "type_1",
+			"frequency": 2,
+			"value": 5
+		},
+		{
+			"name": "Law & Order",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "law_and_order.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 2
+		},
+		{
+			"name": "Scarlet",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "scarlet.png",
+			"type": "type_1",
+			"frequency": 4,
+			"value": 9
+		},
+		{
+			"name": "Sgt. Slaughter",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "sgt_slaughter.png",
+			"type": "type_3",
+			"frequency": 6,
+			"value": 4
+		},
+		{
+			"name": "Snake Eyes",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "snake_eyes.png",
+			"type": "type_2",
+			"frequency": 3,
+			"value": 9
+		},
+		{
+			"name": "Beachhead",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"img": "beachhead.png",
+			"type": "type_4",
+			"frequency": 9,
+			"value": 8
+		}
+	],
+	"locations": [
+		{
+			"name": "HQ",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 3,
+			"img": "hq.png"
+		},
+		{
+			"name": "Battleship",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 2,
+			"img": "battleship.png"
+		},
+		{
+			"name": "The Bunker",
+			"flavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis blandit urna. Nunc id pellentesque ex.",
+			"value": 1,
+			"img": "bunker.png"
+		}
+
+	],
+	"boosts": [
+		{
+			"name": "type_1",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_2",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_3",
+			"items": [
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "type_4",
+			"items": [
+
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 2
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 3
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 4
+				},	
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 5
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 6
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 7
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 8
+				},
+				{
+					"name": "",
+					"flavor": "",
+					"img": "boost.gif",
+					"value": 9
+				}
+			]
+		},
+		{
+			"name": "Instant Death",
+			"items": [
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},
+				{
+					"name": "type_5",
+					"value": 10
+				},	
+				{
+					"name": "type_5",
+					"value": 10
+				}
+			]
+		}		
+	]
+}    

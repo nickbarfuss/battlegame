@@ -1,0 +1,72 @@
+.portrait_container {
+	position: relative;
+	border-radius: 100%;
+	box-sizing: border-box;
+	border-style: solid;
+	border-color: rgba($faction_0,0.8);
+	width: 100%;
+	overflow: hidden;
+
+	.bg {
+		box-shadow: inset 0vw 0vw 2vw 0vw rgba($ui_black,0.8);
+		background-color: rgba($faction_0,0.8);
+		border-radius: 50%;					
+		width: 100%;
+		padding-bottom: 100%;
+	}
+	.fg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+	.fg:after {
+		content: "";
+		display: block;
+		padding-bottom: 100%;
+	}
+}
+.portrait {
+	position: relative;
+	font-family: number;
+	background: $faction_0;
+	overflow: hidden;
+	width: 100%;
+	border-radius: 100%;
+	box-sizing: border-box;
+	border-width: 0.5vw;
+	border-style: solid;
+	border-color: rgba(255,255,255,1);
+	//perspective: 2000px;
+	transform-style: preserve-3d;
+	backface-visibility: hidden;
+	
+	.img {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		border-radius: 100%;
+		background-repeat: no-repeat;
+		background-size: 200%;
+		background-position: 50% 50%;
+		box-shadow: inset 0vw 0vw 1vw 1vw rgba($ui_black,0.3);
+	}
+	/*.num {
+		position: absolute;
+		bottom: -8%;
+		margin-left: 30%;
+		width: 40%;
+		height: 40%;
+		
+		.hex div {
+			background: $ui_white;
+			color: $ui_black;
+			font-size: 2vmax;
+		}
+	}*/
+}
+	
+.portrait:after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
